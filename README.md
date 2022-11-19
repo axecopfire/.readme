@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=axecopfire" alt="axecopfire" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/axecopfire" target="blank"><img src="https://img.shields.io/twitter/follow/axecopfire?logo=twitter&style=for-the-badge" alt="axecopfire" /></a> </p>
+<p align="left"> <a href="https://twitter.com/schusterbraun" target="blank"><img src="https://img.shields.io/twitter/follow/axecopfire?logo=twitter&style=for-the-badge" alt="axecopfire" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [schuster-b.com](schuster-b.com)
 
