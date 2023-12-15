@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [schuster-b.com](schuster-b.com)
 
-- 💬 Ask me about **react, AWS Serverless**
+- 💬 Ask me about **Frontend, Platform Ops, DevOps, Infrastructure as Code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
